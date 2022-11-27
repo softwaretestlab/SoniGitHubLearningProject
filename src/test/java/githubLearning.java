@@ -6,5 +6,6 @@ public class githubLearning {
 
         System.out.println("git");
         System.out.println("github");
+        System.out.println("gitlab");
     }
 }
